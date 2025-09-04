@@ -1,0 +1,11 @@
+{
+    "ruta_emocional": [
+        "positiva",
+        "negativa",
+        "tristeza",
+        "enfado",
+        "positiva",
+        "silencio"
+    ],
+    "numero_predicho": 166
+}
