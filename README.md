@@ -1,3 +1,4 @@
+```
   _______  ___      ___     ______  ___________  __      ______    _____  ___   
  /"     "||"  \    /"  |   /    " \("     _   ")|" \    /    " \  (\"   \|"  \  
 (: ______) \   \  //   |  // ____  \)__/  \\__/ ||  |  // ____  \ |.\\   \    | 
@@ -14,8 +15,8 @@
     |.  |    //      /  // ___)_  // ___)_  
     \:  |   |:  __   \ (:      "|(:      "| 
      \__|   |__|  \___) \_______) \_______) 
-                                            
-                                
+
+```                    
 
 
 Ever wondered what number someone would pick based on their current feelings?  
@@ -23,7 +24,7 @@ Well… now you can try to guess! 😏
 
 It comes with several modes – and yes, more may be added soon (maybe)  
 
-**WIP** – work in progress  
+**WIP** 
 **TODO:** Explain this stuff better /0 0\
 
 Have fun, but remember: this is all for laughs (and maybe a tiny bit of chaos) 🎲✨
